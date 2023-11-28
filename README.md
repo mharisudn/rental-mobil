@@ -23,7 +23,7 @@ Welcome to the Rental Mobil Website repository! This website allows users to ren
 
 Visit our [Live Demo](https://rentalmobil.mharis.my.id) to see the Rental Mobil Website in action!
 
-[![Demo Screenshot](/public/demos.png)](https://github.com/mharisudin/rental-mobil/public/demos.png)
+[![Demo Screenshot](path/public/demos.png)](https://github.com/mharisudin/rental-mobil/public/demos.png)
 
 ## Getting Started
 
